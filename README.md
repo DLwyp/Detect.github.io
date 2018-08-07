@@ -1,1 +1,1 @@
-# Detect.github.io
+# Detection
